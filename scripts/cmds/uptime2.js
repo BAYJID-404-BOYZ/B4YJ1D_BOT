@@ -1,7 +1,7 @@
 module.exports = {
 	config: {
-		name: "uptime2",
-		aliases: ["up2"],
+		name: "uptime",
+		aliases: ["up,upt,uptime"],
 		role: 0,
 		shortDescription: {
 			en: "Show server uptime",
